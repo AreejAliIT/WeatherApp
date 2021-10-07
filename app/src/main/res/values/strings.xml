@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="textviewCity">City Name</string>
+    <string name="tvTimeDate">Time and Date</string>
+    <string name="tvSky">Sky Weather</string>
+    <string name="temprtuerDegree">TemprtuerDegree</string>
+    <string name="high">High</string>
+    <string name="Low">Low</string>
+</resources>
